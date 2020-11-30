@@ -118,7 +118,7 @@
 			<div class="col-md-2"></div>
 		</div>
 		<!-- END OF FORMS -->
-		<div class="footer" id="footer"><center><p style="color: #FFFFFF">Hosted by <a href="https://mobile.twitter.com/had3s6six6" style="color: #FF000">had3s</p></center></div>
+		<div class="footer" id="footer"><center><p style="color: #FFFFFF">Hosted by <a href="https://mobile.twitter.com/had3s6six6" style="color: #FF0000">had3s</a></p></center></div>
 	</div>
 	<!-- START OF CCGEN MODAL -->
 	<div class="modal fade" id="ccGEN" role="dialog" aria-hidden="true" >
