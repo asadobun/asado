@@ -177,11 +177,11 @@ function copySK(){
 }
 function credits(){
     if(!$("#footer").length){
-        $("#container").append('<div class="footer" id="footer"><center><p style="color: #32CD32">Skchk</p></center></div>');
+        $("#container").append('<div class="footer" id="footer"><center><p style="color: #FF0000">Skchk</p></center></div>');
     }else{
     	var x = document.getElementById("footer").textContent;
     	if (x != 'Skchk') {
-    		$("#container").append('<div class="footer" id="footer"><center><p style="color: #32CD32">Skchk</p></center></div>');
+    		$("#container").append('<div class="footer" id="footer"><center><p style="color: #FF0000">Skchk</p></center></div>');
     	}
     }
 }
